@@ -4,8 +4,9 @@
 直接运行1.bat
 
 播放api
-https://player.server.ci/?url=
+https://player.server.ci/?url=https://cdn.jsdelivr.net/gh/reghbear/v2p001/202007184235/playlist.m3u8
 
 每次m3u8链接
 https://cdn.jsdelivr.net/gh/reghbear/v2p001/202007183438/playlist.m3u8
-https://cdn.jsdelivr.net/gh/reghbear/v2p001/202007193956/playlist.m3u8
+https://cdn.jsdelivr.net/gh/reghbear/v2p001/202007184235/playlist.m3u8
+https://cdn.jsdelivr.net/gh/reghbear/v2p001/202007194018/playlist.m3u8
