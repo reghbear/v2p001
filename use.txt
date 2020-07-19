@@ -1,0 +1,11 @@
+仓库连接到 reghbear/v2p001
+
+将要切割的视频放在from文件夹内
+直接运行1.bat
+
+播放api
+https://player.server.ci/?url=
+
+每次m3u8链接
+https://cdn.jsdelivr.net/gh/reghbear/v2p001/202007183438/playlist.m3u8
+https://cdn.jsdelivr.net/gh/reghbear/v2p001/202007193956/playlist.m3u8
