@@ -1,4 +1,4 @@
 import os
-import gitpython
+from git import Repo
 
 repo.git.status()
