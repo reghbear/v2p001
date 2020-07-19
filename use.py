@@ -1,9 +1,7 @@
-import os
-from git import Repo
-import git
+import os,sys,glob
+from git import *
 
-path = 'project_code_path'
-repo = Repo(path)
+repo=Repo('.')
 
 git=repo.git
 git.add ('.')
