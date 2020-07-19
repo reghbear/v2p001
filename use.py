@@ -1,8 +1,15 @@
 import os,sys,glob
 from git import *
 
-repo=Repo('.')
+py_path=os.getcwd()
+print(py_path)
 
-git=repo.git
-git.add ('.')
-git.status()
+repo=Repo(py_path)
+
+repo.git.status()
+repo.git.add('.')
+repo.git.commit()
+repo.git.status()
+repo.git.push()
+
+
